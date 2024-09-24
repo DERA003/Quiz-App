@@ -48,3 +48,8 @@ body{
     cursor: pointer;
     transition: ease 3s;
 }
+
+#btn:hover{
+    background-color: #222;
+    color: #fff;
+}
