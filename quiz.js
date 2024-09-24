@@ -74,19 +74,19 @@ const questions = [
     {
         question: "Eli had __ sons?",
         answers:  [
-            { text:"60", correct:false },
-            { text:"50", correct:true},
-            { text:"40", correct:false},
-            { text:"30", correct:false }
+            { text:"1", correct:false },
+            { text:"2", correct:true},
+            { text:"3", correct:false},
+            { text:"4", correct:false }
         ]
     },
     {
-        question: "How old was Saul when he became king?",
+        question: "___ was the name of the sister of Moses?",
         answers:  [
-            { text:"60", correct:false },
-            { text:"50", correct:false },
-            { text:"40", correct:true },
-            { text:"30", correct:false }
+            { text:"Rebecca", correct:false },
+            { text:"Bethshrba", correct:false },
+            { text:"Miriam", correct:true },
+            { text:"Mary", correct:false }
         ]
     }
 ]
