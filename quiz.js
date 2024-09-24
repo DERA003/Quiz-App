@@ -40,7 +40,7 @@ const questions = [
         answers:  [
             { text:"3", correct:false },
             { text:"5", correct:false },
-            { text:"10", correct:true },
+            { text:"10", correct:false },
             { text:"7", correct:false }
         ]
     },
