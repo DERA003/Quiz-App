@@ -31,7 +31,7 @@ const questions = [
         answers:  [
             { text:"Isreal", correct:false },
             { text:"Obed", correct:true },
-            { text:"40", correct:false },
+            { text:"Ichabod", correct:false },
             { text:"30", correct:false }
         ]
     },
