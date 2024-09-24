@@ -1,5 +1,6 @@
 const questions = [
     {
-        question: ""
+        question: "How old was Saul when he became king"
+        answer:  []
     }
 ]
