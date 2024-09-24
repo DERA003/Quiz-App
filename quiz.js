@@ -59,20 +59,20 @@ const questions = [
             { text:"Joseph", correct:false },
             { text:"Gideon", correct:false },
             { text:"isaiah", correct:false },
-            { text:"30", correct:false }
+            { text:"Benjamin", correct:true}
         ]
     },
     {
-        question: "How old was Saul when he became king?",
+        question: "Did Moses see the promise land?",
         answers:  [
-            { text:"60", correct:false },
-            { text:"50", correct:false },
-            { text:"40", correct:true },
-            { text:"30", correct:false }
+            { text:"No", correct:false },
+            { text:"Maybe", correct:false },
+            { text:"Yes", correct:true },
+            { text:"All of the above", correct:false }
         ]
     },
     {
-        question: "How old was Saul when he became king?",
+        question: "Eli had __ sons?",
         answers:  [
             { text:"60", correct:false },
             { text:"50", correct:false },
