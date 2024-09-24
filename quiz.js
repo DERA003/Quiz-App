@@ -38,19 +38,19 @@ const questions = [
     {
         question: "Saul had how many children?",
         answers:  [
-            { text:"3", correct:false },
+            { text:"3", correct:true },
             { text:"5", correct:false },
             { text:"10", correct:false },
             { text:"7", correct:false }
         ]
     },
     {
-        question: "How old was Saul when he became king?",
+        question: "____ tribe had no inheritance in the bible?",
         answers:  [
-            { text:"60", correct:false },
-            { text:"50", correct:false },
-            { text:"40", correct:true },
-            { text:"30", correct:false }
+            { text:"Reuben", correct:false },
+            { text:"Benjamin", correct:false },
+            { text:"Levi", correct:true },
+            { text:"Issachar", correct:false }
         ]
     },
     {
