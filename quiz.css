@@ -17,3 +17,7 @@ body{
     padding: 30px;
     margin: 30px auto 0;
 }
+
+.app h1{
+    font-size: 25px;
+}
