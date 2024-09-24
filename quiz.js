@@ -75,8 +75,8 @@ const questions = [
         question: "Eli had __ sons?",
         answers:  [
             { text:"60", correct:false },
-            { text:"50", correct:false },
-            { text:"40", correct:true },
+            { text:"50", correct:true},
+            { text:"40", correct:false},
             { text:"30", correct:false }
         ]
     },
