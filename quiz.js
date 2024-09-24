@@ -27,11 +27,11 @@ const questions = [
         ]
     },
     {
-        question: "How old was Saul when he became king?",
+        question: "What is the name of Ruth's first son?",
         answers:  [
-            { text:"60", correct:false },
-            { text:"50", correct:false },
-            { text:"40", correct:true },
+            { text:"Isreal", correct:false },
+            { text:"Obed", correct:true },
+            { text:"40", correct:false },
             { text:"30", correct:false }
         ]
     },
