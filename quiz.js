@@ -58,7 +58,7 @@ const questions = [
         answers:  [
             { text:"Joseph", correct:false },
             { text:"Gideon", correct:false },
-            { text:"isaiah", correct:true },
+            { text:"isaiah", correct:false },
             { text:"30", correct:false }
         ]
     },
