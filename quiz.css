@@ -26,4 +26,6 @@ body{
     color: #001e4d;
 }
 
-.quiz
+.quiz{
+    padding: 30px 0;
+}
