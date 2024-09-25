@@ -92,3 +92,8 @@ const questions = [
 ]
 
 const questionElement = document.getElementById("questions")
+const answerButton = document.getElementById("answer-buttons")
+const nextButton = document.getElementById("next-btn")
+
+let currentQuestionIndex = 0
+let score = 0
