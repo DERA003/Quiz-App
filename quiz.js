@@ -102,11 +102,11 @@ function startQuiz() {
     currentQuestionIndex = 0
     score = 0
     nextButton.innerHTML = "Next"
-    displayQuiz()
+    displayQuestion()
 }
 startQuiz()
 
 
-function displayQuiz(){
+function displayQuestion(){
     
 }
