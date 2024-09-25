@@ -110,5 +110,8 @@ startQuiz()
 function displayQuestion(){
     let currentQuestion = questions[currentQuestionIndex]
     let questionNo = currentQuestionIndex + 1
-    questionElement.innerHTML = questionNo + ". " + currentQuestion
+    questionElement.innerHTML = questionNo + ". " + currentQuestion.question
+
+
+    c
 }
