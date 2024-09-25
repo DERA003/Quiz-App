@@ -108,5 +108,7 @@ startQuiz()
 
 
 function displayQuestion(){
-    
+    let currentQuestion = questions[currentQuestionIndex]
+    let questionNo = currentQuestionIndex + 1
+    questions
 }
