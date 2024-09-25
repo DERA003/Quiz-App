@@ -114,6 +114,6 @@ function displayQuestion(){
 
 
     currentQuestion.answers.forEach(answer =>{
-        const button = document
+        const button = document.createElement()
     })
 }
