@@ -91,4 +91,4 @@ const questions = [
     }
 ]
 
-const questionElement = 
+const questionElement = document.getElementById("questions")
