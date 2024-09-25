@@ -117,5 +117,6 @@ function displayQuestion(){
         const button = document.createElement("button")
         button.innerHTML = answer.text
         button.classList = "btn"
+        answerButton.appendChild(button)
     })
 }
