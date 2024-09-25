@@ -84,7 +84,7 @@ const questions = [
         question: "___ was the name of the sister of Moses?",
         answers:  [
             { text:"Rebecca", correct:false },
-            { text:"Bethshrba", correct:false },
+            { text:"Bethsheba", correct:false },
             { text:"Miriam", correct:true },
             { text:"Mary", correct:false }
         ]
