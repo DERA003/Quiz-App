@@ -113,5 +113,7 @@ function displayQuestion(){
     questionElement.innerHTML = questionNo + ". " + currentQuestion.question
 
 
-    c
+    currentQuestion.answers.forEach(answer =>{
+        const button = document
+    })
 }
