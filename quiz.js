@@ -133,6 +133,6 @@ function resetState() {
     }
 }
 
-function selectAnswer(params) {
+function selectAnswer() {
     
 }
