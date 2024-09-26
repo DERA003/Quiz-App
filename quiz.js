@@ -135,5 +135,5 @@ function resetState() {
 
 function selectAnswer(e) {
     const selectedBtn = e.target
-    const isCorrect = 
+    const isCorrect = selectedBtn.dataset.correct = "true"
 }
