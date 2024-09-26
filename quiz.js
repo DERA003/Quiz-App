@@ -123,5 +123,5 @@ function displayQuestion(){
 }
 
 function resetState() {
-    
+    nextButton.style.display = "none"
 }
