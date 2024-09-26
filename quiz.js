@@ -119,6 +119,9 @@ function displayQuestion(){
         button.innerHTML = answer.text
         button.classList = "btn"
         answerButton.appendChild(button)
+        if (answer.correct) {
+            answer.dataset.correct = answer.correct
+        }
     })
 }
 
