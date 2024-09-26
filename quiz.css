@@ -70,3 +70,7 @@ body{
 .correct{
     background-color: greenyellow;
 }
+
+.incorrect{
+    background-color: red;
+}
