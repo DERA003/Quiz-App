@@ -121,3 +121,7 @@ function displayQuestion(){
         answerButton.appendChild(button)
     })
 }
+
+function resetState() {
+    
+}
