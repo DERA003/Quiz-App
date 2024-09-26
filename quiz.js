@@ -126,12 +126,12 @@ function displayQuestion(){
     })
 }
 
-function resetState() {
-    nextButton.style.display = "none"
-    while (answerButton.firstChild) {
-        answerButton.removeChild(answerButton.firstChild)
-    }
-}
+// function resetState() {
+//     nextButton.style.display = "none"
+//     while (answerButton.firstChild) {
+//         answerButton.removeChild(answerButton.firstChild)
+//     }
+// }
 
 function selectAnswer(e) {
     const selectedBtn = e.target
