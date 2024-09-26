@@ -122,6 +122,7 @@ function displayQuestion(){
         if (answer.correct) {
             answer.dataset.correct = answer.correct
         }
+        button.addEventListener("click", selectAnswer)
     })
 }
 
