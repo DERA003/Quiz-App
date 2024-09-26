@@ -124,4 +124,7 @@ function displayQuestion(){
 
 function resetState() {
     nextButton.style.display = "none"
+    while (answerButton.firstChild) {
+        
+    }
 }
