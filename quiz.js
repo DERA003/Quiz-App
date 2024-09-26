@@ -132,3 +132,7 @@ function resetState() {
         answerButton.removeChild(answerButton.firstChild)
     }
 }
+
+function selectAnswer(params) {
+    
+}
