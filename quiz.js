@@ -117,7 +117,7 @@ function displayQuestion(){
     currentQuestion.answers.forEach(answer =>{
         const button = document.createElement("button")
         button.innerHTML = answer.text
-        button.classList = "btn"
+        button.classList.add("btn")
         answerButton.appendChild(button)
         if (answer.correct) {
             answer.dataset.correct = answer.correct
@@ -126,12 +126,12 @@ function displayQuestion(){
     })
 }
 
-// function resetState() {
-//     nextButton.style.display = "none"
-//     while (answerButton.firstChild) {
-//         answerButton.removeChild(answerButton.firstChild)
-//     }
-// }
+function resetState() {
+    nextButton.style.display = "none"
+    while (answerButton.firstChild) {
+        answerButton.removeChild(answerButton.firstChild)
+    }
+}
 
 function selectAnswer(e) {
     const selectedBtn = e.target
